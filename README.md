@@ -86,6 +86,8 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 * [Croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 * [Dat-cp](https://github.com/tom-james-watson/dat-cp) - Copy files between hosts on a network using the peer-to-peer Dat network.
 * [QRcp](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+* [Onionshare](https://onionshare.org/) - Securely and anonymously share files of any size. A web server is started, making OnionShare accessible as a Tor Onion Service.
+
 
 ## Cloud Storage
 <img width="16" src="misc/forbidden.png"> </img> **AVOID**
@@ -115,8 +117,17 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 <img width="16" src="misc/check.png"> </img> **Instead Use:**
 * [Open Street Map (OSM)](https://www.openstreetmap.org/) - OpenStreetMap is built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.
   * [OSMAnd](https://osmand.net/) - Android/iOS Navigation app using OSM. It is a feature-rich app with all you expect.
+* [Trackbook](https://github.com/y20k/trackbook) - Trackbook is a bare-bones app for recording your movements. Trackbook is great for hiking, vacationing, or working out. 
 
 ## Mail Services
+<img width="16" src="misc/forbidden.png"> </img> **AVOID**:
+* Gmail
+* Outlook
+
+<img width="16" src="misc/check.png"> </img> **Instead Use:**
+* [Tutanota](https://tutanota.com/) - Tutanota is the secure email service, built in Germany. Use encrypted emails on all devices with our open source email client, mobile apps & desktop clients.
+* [Protonmail](https://protonmail.com/) - ProtonMail is the world's largest secure email service, developed by CERN and MIT scientists. We are open source and protected by Swiss privacy law.
+
 
 ## Operating Systems
 ### Android
